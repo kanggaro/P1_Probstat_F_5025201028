@@ -11,7 +11,7 @@
 
 >c
 
-dapat dilihat bahwasannya poin a menghasilkan nilai kepadatan peluang atau yang disebut juga pdf(probability density function), sedangkan poin b menghasilkan nilai random dengan jumlah 1000
+dapat dilihat bahwasannya poin a menghasilkan nilai kepadatan peluang atau yang disebut juga pdf(probability density function), sedangkan poin b menghasilkan nilai random dengan jumlah n = 1000 dan x pada posisi 3
 
 >d
 
