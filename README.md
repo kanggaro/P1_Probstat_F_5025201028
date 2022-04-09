@@ -11,6 +11,8 @@
 
 >c
 
+dapat dilihat bahwasannya poin a menghasilkan nilai kepadatan peluang atau yang disebut juga pdf(probability density function), sedangkan poin b menghasilkan nilai random dengan jumlah 1000
+
 >d
 
 ![image](https://user-images.githubusercontent.com/90663373/162555639-2dcfa0c2-d5df-4077-b0b4-1a4728e370fb.png)
