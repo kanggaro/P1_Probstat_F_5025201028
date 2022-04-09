@@ -44,9 +44,52 @@
 
 
 ### no4
+>a
+
+![image](https://user-images.githubusercontent.com/90663373/162556103-c1412250-edd5-4ffe-8b4e-b849c2bb4557.png)
+
+>b
+
+![image](https://user-images.githubusercontent.com/90663373/162556119-fa69dc8c-f364-4916-89c5-1ab3c5cb004d.png)
+
+![image](https://user-images.githubusercontent.com/90663373/162556134-65ef56ec-09dc-4438-8849-152765fd90c1.png)
+
+>c
 
 
 ### no5
+>a
+
+![image](https://user-images.githubusercontent.com/90663373/162556224-dfc34549-2bad-4daa-b950-e7e1660018aa.png)
+
+>b
+
+random n = 10
+
+![image](https://user-images.githubusercontent.com/90663373/162556258-82f4dcc4-491e-460c-8311-def07d41bceb.png)
+
+![image](https://user-images.githubusercontent.com/90663373/162556263-4f498737-6ced-49d4-828a-42b21111f720.png)
+
+random n = 100
+
+![image](https://user-images.githubusercontent.com/90663373/162556282-cc505de4-c8bd-4b0d-b4af-b00045654f83.png)
+
+![image](https://user-images.githubusercontent.com/90663373/162556288-de6a4b90-82c4-4802-8152-d1b05b8ee207.png)
+
+random n = 1000
+
+![image](https://user-images.githubusercontent.com/90663373/162556371-c22a9818-99de-47d6-a0a4-f67bcece44e6.png)
+
+
+![image](https://user-images.githubusercontent.com/90663373/162556342-e526f6a4-c475-4ff5-a34f-257a7c2f78bc.png)
+
+random n = 10000
+
+![image](https://user-images.githubusercontent.com/90663373/162556406-800084d8-41d6-48d4-aec3-7669da875c83.png)
+
+
+![image](https://user-images.githubusercontent.com/90663373/162556393-7abc47ae-ccd5-406b-8f2e-7c3d43be4736.png)
+
 
 
 ### no6
