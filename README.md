@@ -1,11 +1,21 @@
 ## P1_Probstat_F_5025201028
 
-# no1
-# no2
-# no3
-# no4
-# no5
-# no6
+### no1
+
+
+### no2
+
+
+### no3
+
+
+### no4
+
+
+### no5
+
+
+### no6
 
 ![image](https://user-images.githubusercontent.com/90663373/162555319-9c387020-21b6-444b-b25c-2696c3584d0b.png)
 
