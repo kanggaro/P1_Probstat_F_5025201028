@@ -44,7 +44,11 @@
 ![image](https://user-images.githubusercontent.com/90663373/162555947-06d4d477-4e45-4e6d-8ba2-1e206d548e7e.png)
 
 >c
+
 >d
+
+![image](https://user-images.githubusercontent.com/90663373/162557763-38dea509-265b-46b3-bd2c-895407dd5542.png)
+
 
 
 ### no4
@@ -59,6 +63,8 @@
 ![image](https://user-images.githubusercontent.com/90663373/162556134-65ef56ec-09dc-4438-8849-152765fd90c1.png)
 
 >c
+
+![image](https://user-images.githubusercontent.com/90663373/162557857-e6b217e7-bcde-4f94-8565-a74f44ad9262.png)
 
 
 ### no5
@@ -94,15 +100,23 @@ random n = 10000
 
 ![image](https://user-images.githubusercontent.com/90663373/162556393-7abc47ae-ccd5-406b-8f2e-7c3d43be4736.png)
 
+>c
 
+![image](https://user-images.githubusercontent.com/90663373/162557934-e50318ff-91f0-40e1-b71b-f7a5b6c8b01d.png)
 
 ### no6
 
+>a
+
 ![image](https://user-images.githubusercontent.com/90663373/162555319-9c387020-21b6-444b-b25c-2696c3584d0b.png)
 
+>b
 
 ![Rplot](https://user-images.githubusercontent.com/90663373/162555221-ef420793-4f59-430b-a0fa-b443d52974b1.png)
 
+>c
+
+![image](https://user-images.githubusercontent.com/90663373/162557989-24dceb76-b933-463e-9360-9754a25b5506.png)
 
 
 
